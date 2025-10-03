@@ -52,24 +52,25 @@ Siga os passos abaixo para executar o projeto em sua máquina local.
 **Passos:**
 
 1.  Clone o repositório:
-
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-
+    ```bash
+    git clone [https://github.com/NicolasCrisostimo/Bill_Splitter_App.git]
+    ```
 
 2.  Acesse a pasta do projeto:
-
+    ```bash
     cd nome-do-repositorio
-
+    ```
 
 3.  Instale as dependências:
-
+    ```bash
     flutter pub get
-    
+    ```
 
 4.  Execute o aplicativo:
-
+    ```bash
     flutter run
-    
+    ```
+
 ---
 
 ## Telas
