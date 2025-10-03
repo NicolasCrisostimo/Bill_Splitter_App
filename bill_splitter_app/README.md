@@ -4,6 +4,18 @@ Um aplicativo multiplataforma, desenvolvido com **Flutter**, para gerenciar e di
 
 ---
 
+# Contribuições
+
+Este projeto foi desenvolvido em equipe e contou com a colaboração de:
+
+* Gabryel Kopp
+* Murilo
+* Nicolas Crisostimo
+
+Sobre a divisão de tarefas Murilo ficou responsável mais pela arquitetura inicial e pela implementação das telas de Autenticação (Login e Cadastro), garantindo a base segura para o aplicativo. Gabryel e Nicolas ficaram responsáveis por desenvolver as demais telas e funcionalidades principais do aplicativo, incluindo a gestão de dívidas, o lançamento de despesas, a visualização dos gráficos de análise e a gestão de categorias. Porém em todo o processo todos da equipe ajudaram de alguma maneira e acompanharam o desenvolvimento para ser algo que todos aprovassem.
+
+---
+
 ## Funcionalidades
 
 * **Autenticação de Usuários**: Sistema completo de login e cadastro com validações de formulário.
